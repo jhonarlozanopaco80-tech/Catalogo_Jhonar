@@ -27,7 +27,7 @@ const SOCIA = {
   //    - Abre WhatsApp Business → Herramientas → Link corto
   //    - Copia el link y pégalo aquí
   // --------------------------------------------------
-  whatsapp: "https://wa.link/4dbqw9",
+  whatsapp: "https://wa.me/message/574MPSMFLS4KG1",
 
   // --------------------------------------------------
   // 4. TU TIKTOK
